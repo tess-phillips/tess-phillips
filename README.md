@@ -3,17 +3,13 @@
 <h3 align="center">A passionate developer</h3>
 
 - 🔭 I’m currently working on **Founders and Coders software development bootcamp**
-
 - 🌱 I’m currently learning **Web development fundamentals, front and back-end development, workflows, databases....**
-
 - 👨‍💻 My resume and all of my projects are available at [https://tess-phillips.github.io/showcase/](https://tess-phillips.github.io/showcase/)
-
 - 📫 How to reach me: tess.phillips@me.com
-
 - 😄 My pronouns are (she/her)
 
 <h3 align="left">About:</h3>
-- 👯I'm a passionate and curious learner who thrives in collaborative environments where I can contribute my skills and learn from others.
+- 👯 I'm a passionate and curious learner who thrives in collaborative environments where I can contribute my skills and learn from others.
 
 - ✨ I believe in the power of technology to create positive change.
 
