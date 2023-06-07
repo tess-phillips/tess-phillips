@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tess Phillips <p>(she/her)</p></h1>
+<h1 align="center">Hi 👋, I'm Tess Phillips </h1> <p align="center">(she/her)</p>
 
 <h3 align="center">A passionate developer</h3>
 
