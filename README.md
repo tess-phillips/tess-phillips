@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tess Phillips </h1> <p align="center">(she/her)</p>
+<h1 align="center">Hi 👋, I'm Tess Phillips </h1>
 
 <h3 align="center">A passionate developer</h3>
 
@@ -7,6 +7,12 @@
 - 🌱 I’m currently learning **Web development fundamentals, front and back-end development, workflows, databases....**
 
 - 👨‍💻 All of my projects are available at [https://tess-phillips.github.io/showcase/](https://tess-phillips.github.io/showcase/)
+  My resume can also be found on my showcase website
+
+- 📫 How to reach me: tess.phillips@me.com
+
+- 😄 My pronouns are (she/her)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,7 +34,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- Pronouns: ...
 - ⚡ Fun fact: ...
 -->
