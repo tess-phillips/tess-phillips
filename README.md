@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Tess Phillips</h1>
+(she/her)
 <h3 align="center">A passionate developer</h3>
 
 - 🔭 I’m currently working on **Founders and Coders software development bootcamp**
