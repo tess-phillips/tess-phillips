@@ -9,6 +9,7 @@
 - 😄 My pronouns are (she/her)
 
 <h3 align="left">About:</h3>
+
 - 👯 I'm a passionate and curious learner who thrives in collaborative environments where I can contribute my skills and learn from others.
 
 - ✨ I believe in the power of technology to create positive change.
