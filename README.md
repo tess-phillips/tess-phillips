@@ -4,20 +4,18 @@
 
  <br>🔭 I’m currently working on **Founders and Coders software development bootcamp**
  <br>🌱 I’m currently learning **Web development fundamentals, front and back-end development, workflows, databases....**
- <br>👨‍💻 My resume and all of my projects are available at [https://tess-phillips.github.io/showcase/](https://tess-phillips.github.io/showcase/)
  <br>📫 How to reach me: tess.phillips@me.com
  <br>😄 My pronouns are (she/her)
+ 
+  <br>👨‍💻 My resume and all of my projects are available at [https://tess-phillips.github.io/showcase/](https://tess-phillips.github.io/showcase/)
+
 
 <h3 align="left">About:</h3>
 
 - 👯 I'm a passionate and curious learner who thrives in collaborative environments where I can contribute my skills and learn from others.
-
 - ✨ I believe in the power of technology to create positive change.
-
 - 🎓 I hold a Bachelor's degree in Mathematics from University of Manchester
-
 - 💡 I enjoy tackling challenging problems and finding creative solutions that deliver a positive user experience.
-
 - 🌍 I have a deep love for the environment and a strong commitment to sustainability. I'm dedicated to promoting green initiatives within the tech industry and using tech for good to address global challenges and make a meaningful impact on the environment and people's lives.
 
 
