@@ -6,17 +6,20 @@
 
 - 🌱 I’m currently learning **Web development fundamentals, front and back-end development, workflows, databases....**
 
-- 👨‍💻 All of my projects are available at [https://tess-phillips.github.io/showcase/](https://tess-phillips.github.io/showcase/)
-  My resume can also be found on my showcase website
+- 👨‍💻 My resume and all of my projects are available at [https://tess-phillips.github.io/showcase/](https://tess-phillips.github.io/showcase/)
 
 - 📫 How to reach me: tess.phillips@me.com
 
 - 😄 My pronouns are (she/her)
 
+<h3 align="left">Background:</h3>
+My previous experience includes 4 years as a HR professional and some years prior to that as an operational manager across different kinds of businesses. These roles had a strong focus on the soft skills needed for cooperation and team-building as well as a lot of real-world problem solving and a creative approach to building scalable working systems.
+
+Working in a tech start-up environment I gained a strong appreciation for the agile working methods and the iterative approach to solution building that I saw engineering teams apply over and over. I began exploring web development on my own and quickly realised it was the next step for my career.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tess-phillipt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tess-phillipt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tess-phillips" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tess-phillips" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
