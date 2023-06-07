@@ -12,10 +12,17 @@
 
 - 😄 My pronouns are (she/her)
 
-<h3 align="left">Background:</h3>
-My previous experience includes 4 years as a HR professional and some years prior to that as an operational manager across different kinds of businesses. These roles had a strong focus on the soft skills needed for cooperation and team-building as well as a lot of real-world problem solving and a creative approach to building scalable working systems.
+<h3 align="left">About:</h3>
+- 👯I'm a passionate and curious learner who thrives in collaborative environments where I can contribute my skills and learn from others.
 
-Working in a tech start-up environment I gained a strong appreciation for the agile working methods and the iterative approach to solution building that I saw engineering teams apply over and over. I began exploring web development on my own and quickly realised it was the next step for my career.
+- ✨ I believe in the power of technology to create positive change.
+
+- 🎓 I hold a Bachelor's degree in Mathematics from University of Manchester
+
+- 💡 I enjoy tackling challenging problems and finding creative solutions that deliver a positive user experience.
+
+- 🌍 I have a deep love for the environment and a strong commitment to sustainability. I'm dedicated to promoting green initiatives within the tech industry and using tech for good to address global challenges and make a meaningful impact on the environment and people's lives.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,5 +45,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
