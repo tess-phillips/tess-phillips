@@ -7,7 +7,7 @@
  <br>📫 How to reach me: tess.phillips@me.com
  <br>😄 My pronouns are (she/her)
  
-  <br> <p align="center">👨‍💻<b> My resume and all of my projects are available at [showcase](https://tess-phillips.github.io/showcase/) which is a portfolio of all my work (and a work in progress itself).</b></p>
+  <br> <p align="center">👨‍💻<b> My resume and all of my projects are available at [showcase](https://tess-phillips.github.io/reworkedShowcase/) which is a portfolio of all my work (and a work in progress itself).</b></p>
 
 <h3 align="left">About:</h3>
 
