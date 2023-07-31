@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tess Phillips </h1>
 
-<h3 align="center">A passionate developer</h3>
-
   <br> <p align="center">👨‍💻<b> My resume and all of my projects are available at [showcase](https://tess-phillips.github.io/Portfolio/) which is a portfolio of all my work (and a work in progress itself).</b></p>
 
  <br>🔭 I’m currently working on **Founders and Coders software development bootcamp**
