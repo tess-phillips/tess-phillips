@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tess Phillips </h1>
 
-  <br> <p align="center">👨‍💻<b> My resume and all of my projects are available at [showcase](https://tess-phillips.github.io/Portfolio/) which is a portfolio of all my work (and a work in progress itself).</b></p>
+  <br> <p align="center">👨‍💻<b> My resume and all of my projects are available at [showcase](https://tess-phillips.github.io/Portfolio/) which is a portfolio of all my work (up to 01/09/23).</b></p>
 
  <br>🔭 I’m currently working on **Founders and Coders software development bootcamp**
  <br>🌱 I’m currently learning **Web development fundamentals, front and back-end development, workflows, databases....**
@@ -9,11 +9,7 @@
 
 <h3 align="left">About:</h3>
 
-- 👯 I'm a passionate and curious learner who thrives in collaborative environments where I can contribute my skills and learn from others.
-- ✨ I believe in the power of technology to create positive change.
-- 🎓 I hold a Bachelor's degree in Mathematics from University of Manchester
-- 💡 I enjoy tackling challenging problems and finding creative solutions that deliver a positive user experience.
-- 🌍 I have a deep love for the environment and a strong commitment to sustainability. I'm dedicated to promoting green initiatives within the tech industry and using tech for good to address global challenges and make a meaningful impact on the environment and people's lives.
+As a 1st Class Mathematics graduate with a strong background in science, I have gained valuable experience as an Analyst in the Civil Engineering sector. I'm deeply committed to social causes, as evidenced by my extensive volunteer work. I excel in research, data analysis, and information presentation. Currently I am undertaking a three-month full-time Software Development Apprenticeship learning programme which includes coding in agile environments and using GitHub for web projects. I am actively seeking an apprenticeship or junior engineering role in web development.
 
 
 <h3 align="left">Connect with me:</h3>
